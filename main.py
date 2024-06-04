@@ -11,7 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Jaime Ramirez')
+    print_hi('Jaime Ramirez A., profesor')
 l1 = []
 n_l1 = [n*n for n in range(1,11) if n % 2 == 0]
 suma = sum(n_l1)
